@@ -8,7 +8,7 @@ From our inception, we’ve developed open-source libraries, tools, and document
 
 With more than 80% of all requests originating from our client libraries on a regular basis, we know it’s important for developers to have an easy way of jumping into our API quickly:
 
-- [easypost-csharp](https://github.com/easypost/easypost-csharp) (C# EasyPost Client Library)
+- [easypost-csharp](https://github.com/easypost/easypost-csharp) (.NET EasyPost Client Library)
 - [easypost-go](https://github.com/easypost/easypost-go) (Golang EasyPost Client Library)
 - [easypost-java](https://github.com/easypost/easypost-java) (Java EasyPost Client Library)
 - [easypost-node](https://github.com/easypost/easypost-node) (Node EasyPost Client Library)
