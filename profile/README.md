@@ -15,7 +15,7 @@ With more than 80% of all requests originating from our client libraries on a re
 - [easypost-php](https://github.com/easypost/easypost-php) (PHP EasyPost Client Library)
 - [easypost-python](https://github.com/easypost/easypost-python) (Python EasyPost Client Library)
 - [easypost-ruby](https://github.com/easypost/easypost-ruby) (Ruby EasyPost Client Library)
-- [examples](https://github.com/examples) (Example Code Snippets for the EasyPost API)
+- [examples](https://github.com/easypost/examples) (Example Code Snippets for the EasyPost API)
 
 We contribute to other open-source tools we rely on to build and run EasyPost, while also maintaining our own open-source projects. Here are a few of our favorites:
 
