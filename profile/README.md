@@ -1,4 +1,4 @@
-![The most reliable shipping solution](./banner.jpeg)
+![The most reliable shipping solution](https://raw.githubusercontent.com/EasyPost/.github/main/profile/banner.jpeg)
 
 ## EasyPost ❤️ Developer Experience
 
