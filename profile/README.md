@@ -1,4 +1,4 @@
-# EasyPost
+![The most reliable shipping solution](banner.jpeg)
 
 ## EasyPost ❤️ Developer Experience
 
