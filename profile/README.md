@@ -2,7 +2,7 @@
 
 ## EasyPost ❤️ Developer Experience
 
-From our inception, we’ve developed open-source libraries, tools, and documentation to help our users hit the ground running. The world of shipping is hard; it’s our mission to make it easy. With our unified API, we’ve abstracted the difficulties of integrating with multiple parcel carriers so you can speak the same language to all of them. Pair it with our feature-rich and reliable [client libraries](https://www.easypost.com/docs/libraries) and comprehensive [documentation and examples](https://www.easypost.com/docs/api), and you’ll be shipping in minutes, not months.
+From our inception, we’ve developed open-source libraries, tools, and documentation to help our users hit the ground running. The world of shipping is hard; it’s our mission to make it easy. With our unified API, we’ve abstracted the difficulties of integrating with multiple parcel carriers so you can speak the same language to all of them. Pair it with our feature-rich and reliable [client libraries](https://docs.easypost.com/libraries) and comprehensive [documentation and examples](https://docs.easypost.com), and you’ll be shipping in minutes, not months.
 
 ## Open Source at EasyPost
 
