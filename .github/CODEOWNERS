@@ -1,2 +1,7 @@
-# Ping the DevEx team for reviews on every PR
-* @EasyPost/dev-tools @EasyPost/easypost-public-maintainers
+## These are the standard rules for all EasyPost public repositories.
+##
+
+* @EasyPost/easypost-public-maintainers
+
+# The devtools team owns the codeowners file, this is for auditing purposes
+.github/CODEOWNERS @easypost/dev-tools
